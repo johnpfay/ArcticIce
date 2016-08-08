@@ -1,4 +1,5 @@
 Data/IceVectors/*
+Data/icemotion.gdb/*
 Scratch/*
 
 *.bin
